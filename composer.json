@@ -1,0 +1,13 @@
+{
+    "name":"ebizmarts/magemonkey",
+    "type":"magento-module",
+    "homepage":"https://github.com/blissmedia/ebizmarts_magemonkey",
+    "authors":[
+        {
+            "name":"James Harrison"
+        }
+    ],
+    "require":{
+        "magento-hackathon/magento-composer-installer":"*"
+    }
+}
